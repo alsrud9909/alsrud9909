@@ -1,3 +1,13 @@
-[![alsrud9909's github stats](https://github-readme-stats.vercel.app/api?username=alsrud9909&count_private=true&show_icons=true&theme=buefy&hide_border=true&include_all_commits=1)](https://github.com/alsrud9909/github-readme-stats)
+#### Interest 🍒
+- Video Coding : HEVC/H.265, VVC/H.266
+- Deep Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsrud9909&layout=compact&hide_border=true&title_color=7957d5&icon_color=ff3860&text_color=363636&bg_color=ffffff)](https://github.com/alsrud9909/github-readme-stats)
+#### Award 🏆
+- 2020 ICT콕 AI 공모전 장려상
+- 2020 앵커밸류 FINTECH-AI 해커톤 2위
+- 2021 제11회 창의설계경진대회 최우수상(1위)
+- 2021 제11회 창의설계경진대회 인기상
+
+#### About me 💕
+- I'm in Sejong-univ. (2017.03~)
+- I'm in Digital Media System lab. (2021.03~)
