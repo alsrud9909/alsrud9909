@@ -9,5 +9,5 @@
 - 2021 제11회 창의설계경진대회 인기상
 
 #### About me 💕
-- I'm in Sejong-univ. (2017.03~)
+- I'm in Sejong Univ - Computer Engineering. (2017.03~)
 - I'm in Digital Media System lab. (2021.03~)
