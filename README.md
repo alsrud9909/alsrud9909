@@ -1,6 +1,6 @@
 #### About me ❤
-- in Sejong Univ. (2017.03~)
-- in Digital Media System lab (2021.03~)
+- Sejong Univ. (2017.03~)
+- Digital Media System lab (2021.03~)
 
 #### Interest 🍒
 - Video Coding : HEVC/H.265, VVC/H.266
